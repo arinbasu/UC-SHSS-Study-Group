@@ -12,7 +12,7 @@ The goal of this project is to set up a journal club at the University of Canter
 ## What will we do at the journal club
 
 1. Before you join the journal club, you will need to have an account (free) at [http://www.authorea.com](http://www.authorea.com) and then let me know the email address. I will invite you to the journal club website.
-2. Or you can also yourself to the preprint journal club by first signing up to Authorea (see point 1) and then to the preprint Journal club at the following address: (Preprint JC)[https://prereview.org/inst/14743].
+2. Or you can also yourself to the preprint journal club by first signing up to Authorea (see point 1) and then to the preprint Journal club at the following address: [Preprint JC](https://prereview.org/inst/14743).
 3. Following our discussion at the journal club, whoever will initiate the preprint discussion will then need to write a review of the preprint within three days of the completion of the journal club. 
 4. Ideally, you will also need to have a github account and set up git on your computer. To set up a free github account, please visit [http://github.com](http://www.github.com) and set up your username and password. Then "fork" this repository to your own account. 
 4. The guidelines for the writing the review of the preprint are given below
@@ -25,5 +25,11 @@ The goal of this project is to set up a journal club at the University of Canter
 ## Where will you get the preprints? 
 Try the following preprint sources:
 
-- 
+- PeerJ
+- F1000
+- socRxiv
+- bioRxiv
+- [Preprints.org](https://www.preprints.org)
+
+## We will keep copies of preprints here
 
