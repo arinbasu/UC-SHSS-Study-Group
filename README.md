@@ -1,3 +1,8 @@
+# Why do we need a journal club?
+
+Students and faculty members need to read and write research. We also need to work as a community. Yet unless we can find a structured, dedicated time when we can do this, we tend to get distracted and often isolated from each other. While we need to read a considerable amount of literature to stay on top of the current literature load, the pressure of time and other workload make that task difficult. On the other hand, if we can find a way so that a collective reading of the key literature that we need to work on, or read to understand key topics relevant to our researhc are available, then it makes our work of writing our own papers and understanding the literature we have to tackle on a day to day basis easier.
+Journal clubs provide that opportunity. A journal club is an activity where students & colleagues come together, read and discuss a publication (either a post publication paper that has already gone through peer review, or a prepublication such as the one we are discussing). 
+
 # Setting up a Journal Club
 
 The goal of this project is to set up a journal club at the University of Canterbury's School of Health Sciences. Here are the principles for joining and contributing to the journal club. Anyone can join the journal club. 
