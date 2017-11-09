@@ -33,3 +33,9 @@ Try the following preprint sources:
 
 ## We will keep copies of preprints here
 
+To get you started, I have put together a few articles here that we can discuss in the upcoming weeks. I can start the discussion with the first article. 
+
+## Guidelines of how to write a review of the preprint article
+Follow the questions and instructions in the following article to both conduct the review as well as writing the post-meeting review of the article:
+
+[Guideline as to how to write the post-meeting review of the preprint](https://prereview.org/users/164141/articles/200820-prereview-guidelines-how-to-write-a-peer-preprint-review)
