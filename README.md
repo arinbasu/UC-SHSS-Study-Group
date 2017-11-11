@@ -36,6 +36,7 @@ Try the following preprint sources:
 - socRxiv
 - bioRxiv
 - [Preprints.org](https://www.preprints.org)
+- prepubmed
 
 ## We will keep copies of preprints here
 
