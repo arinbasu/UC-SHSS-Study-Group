@@ -1,3 +1,7 @@
+# Hello and Welcome!
+
+Welcome to this study group and journal club. We will meet weekly and conduct a journal club and learn about using R and data science tools for conducting our research work. 
+
 # Why do we need a journal club?
 
 Students and faculty members need to read and write research. We also need to work as a community. Yet unless we can find a structured, dedicated time when we can do this, we tend to get distracted and often isolated from each other. While we need to read a considerable amount of literature to stay on top of the current literature load, the pressure of time and other workload make that task difficult. On the other hand, if we can find a way so that a collective reading of the key literature that we need to work on, or read to understand key topics relevant to our researhc are available, then it makes our work of writing our own papers and understanding the literature we have to tackle on a day to day basis easier.
