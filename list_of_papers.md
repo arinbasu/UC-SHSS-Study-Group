@@ -7,4 +7,19 @@ van der Zee T, Anaya J, Brown NJL. (2017) Statistical heartburn: An attempt to d
 
 Download link: [https://peerj.com/preprints/2748/#](https://peerj.com/preprints/2748/#)
 
+Summary of this paper
+----------------------
+
+
 Use this link to write your review of the paper after the discussion: 
+
+[Click on this link to write the preprint review](https://www.authorea.com/users/2191/articles/217328-ucshss-preprint-review-an-attempt-to-digest-four-pizza-publications)
+
+Tips of writing the review of the preprint:
+
+1. First add your username to the list of authors on the top of the document
+2. Then write your answers to the questions posted on the authorea document. Use Authorea's editor to write your responses. Do this withing three days of the journal club. Write as much or as little as you want. Do not write anything before we host the journal club, only _after_ the journal club.
+3. After three days, we will collate the responses and we will write a letter to the authors of the preprint about our impressions based on the journal club. We will also be able to use this review to gain a publication point (this is referred to as minting DOI for leaving a permanent scholarly record).
+
+
+
