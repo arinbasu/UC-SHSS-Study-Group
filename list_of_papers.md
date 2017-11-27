@@ -9,7 +9,7 @@ Download link: [https://peerj.com/preprints/2748/#](https://peerj.com/preprints/
 
 Summary of this paper
 ----------------------
-
+In this paper, the authors reanalysed four articles from a research paper on data collected from diners at an Italian restaurant buffet. They found several inconsistencies in the paper and pointed them out. I selected this as the first paper to make it a fun reading but also to alert to our readers the need to be alert and vigilant about facts when you read a paper. Let's see how we dissect this paper in our club.
 
 Use this link to write your review of the paper after the discussion: 
 
