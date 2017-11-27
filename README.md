@@ -1,8 +1,11 @@
-# Hello and Welcome!
+# Hello!
 
-Welcome to this study group and journal club. We will meet weekly and conduct a journal club and learn about using R and data science tools for conducting our research work. 
+Welcome to the UC School of Health Sciences study group and preprint journal club! We will meet weekly on Tuesday mornings and run a preprint journal club. In course of our discussions, we will share our insights, and our research. If we write preprints, we will share them here and discuss them as well. 
 
-# Why do we need a journal club?
+# Why do we need a preprint journal club?
+Preprints are research articles that are ready for submission to journal articles (and in some cases submitted to the journals for publishing), but these versions have not undergone peer-review yet. These versions are made available by their authors in their full text versions in repositories where anyone can read them and comment on them. For a review of preprint articles and what they are, [see this article by Hindle and Saderi](https://prereview.org/users/153686/articles/200859-preprint-info-doc). Hindle and Saderi (2016) write,
+
+> Preprints not only have benefits in bringing the most up-to-date research to the whole web within days of submission, but they also provide an invaluable opportunity for early career researchers to develop their skills at critically reviewing scientific manuscripts. 
 
 Students and faculty members need to read and write research. We also need to work as a community. Yet unless we can find a structured, dedicated time when we can do this, we tend to get distracted and often isolated from each other. While we need to read a considerable amount of literature to stay on top of the current literature load, the pressure of time and other workload make that task difficult. On the other hand, if we can find a way so that a collective reading of the key literature that we need to work on, or read to understand key topics relevant to our researhc are available, then it makes our work of writing our own papers and understanding the literature we have to tackle on a day to day basis easier.
 
