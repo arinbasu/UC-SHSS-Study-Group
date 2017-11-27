@@ -40,3 +40,7 @@ The goal of this project is to set up a journal club at the University of Canter
 Follow the questions and instructions in the following article to both conduct the review as well as writing the post-meeting review of the article:
 
 [Guideline as to how to write the post-meeting review of the preprint](https://prereview.org/users/164141/articles/200820-prereview-guidelines-how-to-write-a-peer-preprint-review)
+
+## Click on this link to visit the list of Papers for our journal club and date
+
+
