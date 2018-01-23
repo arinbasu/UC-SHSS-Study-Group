@@ -24,6 +24,11 @@ Use the  link to write your review of the paper after the discussion:
 
 Within three days of our discussion, we will collate the responses and we will write a letter to the authors of the preprint about our impressions based on the journal club. We will also be able to use this review to gain a publication point (this is referred to as minting DOI for leaving a permanent scholarly record).
 
+Suggest a paper
+----------------
+Please click the following link to suggest a paper for the journal club:
+https://goo.gl/forms/yT1SL91yTbwe6SWk2
+
 
 
 
