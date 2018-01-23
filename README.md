@@ -24,10 +24,10 @@ The goal of this project is to set up a journal club at the University of Canter
 
 ## The timing and venue of the journal club
 
-1. We will organise the journal club weekly on **Tuesday mornings (~ 10 AM) and we will run for an hour (10 - 11 AM)**.
+1. We will organise the journal club every two weeks on **Tuesday mornings (~ 10:30 AM) and we will run for an hour (10:30 - 11:30 AM)**.
 2. We will identify one "pre-print article" (see below) a week in advance and we will post the link to this page. 
-3. We will meet in **Waimairi 106 (if available or otherwise announced in the email)**. 
-4. Everyone is welcome to attend the journal club, bring your friends. 
+3. The meeting venue and topic will be available on [the list of topics for discussion](https://arinbasu.github.io/UC-SHSS-Study-Group/list_of_papers)
+4. Everyone is welcome to attend the journal club. 
 
 ## Rules/Steps of the journal club
 
