@@ -1,7 +1,7 @@
 List of articles for the preprint journal club
 ==============================================
 
-7th February, 2017
+7th February, 2017, Wheki 101, 7th February, 2018, 11AM - 12:00 PM
 -------------------
 van der Zee T, Anaya J, Brown NJL. (2017) Statistical heartburn: An attempt to digest four pizza publications from the Cornell Food and Brand Lab. PeerJ Preprints 5:e2748v1 https://doi.org/10.7287/peerj.preprints.2748v1
 
