@@ -18,9 +18,7 @@ Write your own review or contribute
 -------------------------------------
 Use the  link to write your review of the paper after the discussion: 
 1. Create a free account on [Authorea](http://www.authorea.com)
-2. 
-[Click on this link to write the preprint review](https://www.authorea.com/users/2191/articles/217328-ucshss-preprint-review-an-attempt-to-digest-four-pizza-publications)
-
+2. [Click on this link to write the preprint review](https://www.authorea.com/users/2191/articles/217328-ucshss-preprint-review-an-attempt-to-digest-four-pizza-publications)
 3. First add your username to the list of authors on the top of the document
 4. Then write your answers to the questions posted on the authorea document. Use Authorea's editor to write your responses. Do this withing three days of the journal club. Write as much or as little as you want. Do not write anything before we host the journal club, only _after_ the journal club.
 
