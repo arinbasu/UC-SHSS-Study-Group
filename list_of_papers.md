@@ -1,4 +1,4 @@
-List of articles for the preprint journal club
+Organisation of the preprint journal club
 ==============================================
 
 6th February, 2017, Wheki 101, 10:30 AM - 11:30 AM ((Inaugural session)
