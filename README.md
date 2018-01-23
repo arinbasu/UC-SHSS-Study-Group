@@ -1,4 +1,4 @@
-[Image of journal club](journal_club.jpg)
+![Image of journal club](journal_club.jpg)
 
 # About the Journal Club
 
