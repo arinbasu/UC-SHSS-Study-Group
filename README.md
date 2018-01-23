@@ -1,3 +1,5 @@
+[Image of journal club](journal_club.jpg)
+
 # About the Journal Club
 
 Welcome to the UC School of Health Sciences study group and preprint journal club! We will meet weekly on Tuesday mornings and run a preprint journal club. In course of our discussions, we will share our insights, and our research. If we write preprints, we will share them here and discuss them as well. 
