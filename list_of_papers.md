@@ -26,8 +26,7 @@ Within three days of our discussion, we will collate the responses and we will w
 
 Suggest a paper
 ----------------
-[Please click me to visit a form, to suggest a paper for the journal club:]
-(https://goo.gl/forms/yT1SL91yTbwe6SWk2)
+[Please click me to visit a form, to suggest a paper for the journal club:](https://goo.gl/forms/yT1SL91yTbwe6SWk2)
 
 
 
