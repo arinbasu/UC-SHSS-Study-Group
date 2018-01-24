@@ -1,7 +1,7 @@
 Organisation of the preprint journal club
 ==============================================
 
-6th February, 2017, Wheki 101, 10:30 AM - 11:30 AM ((Inaugural session)
+6th February, 2017, Wheki 101, Tuesday, 10:30 AM - 11:30 AM ((Inaugural session)
 -------------------
 
 As this is the first session, we will host it in Wheki 101. In addition to discussing the topic, we will also discuss about the future of this journal club and your preferred location, timing, and frequency. We will discuss the following article:
