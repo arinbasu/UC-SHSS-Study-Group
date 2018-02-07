@@ -14,6 +14,10 @@ Summary of this paper
 ----------------------
 In this paper, the authors reanalysed four articles from a research paper on data collected from diners at an Italian restaurant buffet. They found several inconsistencies in the paper and pointed them out. I selected this as the first paper to make it a fun reading but also to alert to our readers the need to be alert and vigilant about facts when you read a paper. Let's see how we dissect this paper in our club.
 
+![The first club photo](IMG-20180207-WA0033.jpg)
+
+In the first journal club (7th Feb, 2018) we discussed the van der Zee (2017) paper where they dissected four other papers for the statistical inconsistencies. The discussants thought that the paper was heavy on the statistical details but they also needed to focus on translation of the meaning of the details for a relatively statistics-aversive readership to translate the meanings. Some of us also thought that it'd be a good idea if the readers themselves were more open to statistics. We discussed the role of & need for replicable and reproducible research in different contexts of our work. 
+
 Write your own review or contribute
 -------------------------------------
 Use the  link to write your review of the paper after the discussion: 
