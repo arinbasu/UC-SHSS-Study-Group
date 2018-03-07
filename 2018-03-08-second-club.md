@@ -16,4 +16,4 @@ You can read the full text of the paper here:
 
 By agreeing to access and read the full text, you accept that you will not reproduce or copy the contents of this paper without the authors' (contact Kate Reid at [kate.reid@canterbury.ac.nz](mailto:kate.reid@canterbury.ac.nz) if you want to use the contents of this paper as this is still in a preprint stage) 
 
-Write your review by clicking here
+[Write your review by clicking here](https://www.authorea.com/217328/JSfCLqLXx9SqDncd3L6w4A), or if you are a member of the [University of Canterbury SHSS Preprint Journal club](https://www.authorea.com/inst/18975?current_inst_tab=public), you can click on the review template and write it directly there. You can also read the guidelines here (repeated in the above documents anyway): [https://prereview.org/users/164141/articles/200820-prereview-guidelines-how-to-write-a-peer-preprint-review](https://prereview.org/users/164141/articles/200820-prereview-guidelines-how-to-write-a-peer-preprint-review)
