@@ -1,7 +1,7 @@
 Organisation of the preprint journal club
 ==============================================
 
-[Link to the Second Journal Club, 13th March, Tuesday, 10-11 AM, Jack Mann Auditorium]()
+[Link to the Second Journal Club, 13th March, Tuesday, 10-11 AM, Jack Mann Auditorium](https://arinbasu.github.io/UC-SHSS-Study-Group/2018-03-08-second-club)
 
 7th February, 2017, Wheki 101, Wednesday, 10:30 AM - 11:30 AM ((Inaugural session)
 -------------------
