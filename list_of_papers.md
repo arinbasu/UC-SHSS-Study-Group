@@ -1,5 +1,7 @@
 Organisation of the preprint journal club
 ==============================================
+[Link to the Fourth Preprint Journal Club, 10th April, Tuesday, 10-11 AM, Waimairi Staff Room](https://arinbasu.github.io/UC-SHSS-Study-Group/2018-10-04-four)
+
 [Link to the Third Preprint Journal Club, 27th March, Tuesday, 10-11 AM, Waimairi Staff Room](https://arinbasu.github.io/UC-SHSS-Study-Group/2018-27-03-third)
 
 [Link to the Second Journal Club, 13th March, Tuesday, 10-11 AM, Jack Mann Auditorium](https://arinbasu.github.io/UC-SHSS-Study-Group/2018-03-08-second-club)
